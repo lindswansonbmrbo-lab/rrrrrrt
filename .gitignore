@@ -1,0 +1,10 @@
+*.o
+*.so
+*.a
+build/
+.env
+.idea/
+*.tmp
+*.swp
+coverage/
+.DS_Store
